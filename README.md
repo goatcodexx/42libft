@@ -1,6 +1,6 @@
 # Libft - Your Very First Own Library
 
-This project has been created as part of the 42 curriculum by <your_login>.
+_This project has been created as part of the 42 curriculum by sywee._
 
 ## Description
 
